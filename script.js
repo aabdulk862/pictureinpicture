@@ -25,3 +25,4 @@ button.addEventListener("click", async () => {
 
 // On Load
 selectMediaStream();
+
